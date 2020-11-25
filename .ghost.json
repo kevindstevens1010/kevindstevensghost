@@ -1,0 +1,11 @@
+
+{
+  "development": {
+    "apiUrl": "https://kevinstevens.ghost.io",
+    "contentApiKey": "0160ee86f23b9a918b5ed0f50f"
+  },
+  "production": {
+    "apiUrl": "https://kevindstevens.ghost.io",
+    "contentApiKey": "0160ee86f23b9a918b5ed0f50f"
+  }
+}
